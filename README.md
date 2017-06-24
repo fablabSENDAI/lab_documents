@@ -1,3 +1,15 @@
-# My Awesome Book
+# PowerPointを使ったレーザーカッター用簡易データの作り方
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+《注意事項》
+
+・0.05cm単位での、細かいサイズ設定はできません。
+
+・キーホルダーやアクセサリーなど、サイズの設定が大まかでも問題のない造形物のデータ作成に向いています。
+
+・線幅や色をPowerPoint上できちんと設定しても、  
+　Illustrator等他のソフトで読み込みをした場合に勝手に変わっている場合が多々あるので、加工前に必ず確認をしましょう。  
+（データのサイズ自体が変わることはほとんどありません。）
+
+・通常pdf保存をしたのみでは、フォントのアウトライン化はされません。  
+（アウトライン化を行いたい場合は、pdf保存時にオプションで設定する必要があります。）
+
